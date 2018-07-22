@@ -9,8 +9,8 @@
 	},
 	"miniprogramRoot": "./dist/",
 	"compileType": "miniprogram",
-	"appid": "touristappid",
-	"projectname": "v-mp-front",
+	"appid": "wx9dac020afffc2c6c",
+	"projectname": "sunshineF",
 	"condition": {
 		"search": {
 			"current": -1,
